@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3a18a4165924c3f87434db7929f8cae, type: 3}
+  m_Name: SlotItemsData
+  m_EditorClassIdentifier: 
+  slotItems:
+  - itemType: 0
+    sprite: {fileID: 21300000, guid: 6991ec90d9fead841bcb8da8b29fdfd5, type: 3}
+    payoutValue: 3
+    probability: 0.1
+    multiplierValue: 1
+  - itemType: 1
+    sprite: {fileID: 21300000, guid: bf068c585bf70614a86c5e8b727cf441, type: 3}
+    payoutValue: 5
+    probability: 0.15
+    multiplierValue: 1
+  - itemType: 2
+    sprite: {fileID: 21300000, guid: 4bebd096ce825314198a6675df672529, type: 3}
+    payoutValue: 8
+    probability: 0.2
+    multiplierValue: 1
+  - itemType: 3
+    sprite: {fileID: 21300000, guid: cafccd42b982db544b34fac058c5c574, type: 3}
+    payoutValue: 10
+    probability: 0.12
+    multiplierValue: 1
+  - itemType: 4
+    sprite: {fileID: 21300000, guid: 5f80b3ea443718846825c8d19f0bcbab, type: 3}
+    payoutValue: 11
+    probability: 0.11
+    multiplierValue: 1
+  - itemType: 5
+    sprite: {fileID: 21300000, guid: a610c355e941ec24b803f12f1b431f3e, type: 3}
+    payoutValue: 13
+    probability: 0.13
+    multiplierValue: 1
+  - itemType: 6
+    sprite: {fileID: 21300000, guid: 333c56ac8333e1442bf43ca0916d7d0c, type: 3}
+    payoutValue: 15
+    probability: 0.08
+    multiplierValue: 1
+  - itemType: 7
+    sprite: {fileID: 21300000, guid: 4a566b8e3e662314f981e576cc3d5d8c, type: 3}
+    payoutValue: 18
+    probability: 0.05
+    multiplierValue: 1
+  - itemType: 8
+    sprite: {fileID: 21300000, guid: c1211b729e2373c46a9ed10ea3eb318c, type: 3}
+    payoutValue: 20
+    probability: 0.06
+    multiplierValue: 1
+  - itemType: 9
+    sprite: {fileID: 21300000, guid: 71df8aaf2a67e534ebd2fc0cb5f5d6c2, type: 3}
+    payoutValue: 20
+    probability: 0.03
+    multiplierValue: 1
+  - itemType: 10
+    sprite: {fileID: 21300000, guid: 4d781c4917bd30d48ae6bb7e060ecc86, type: 3}
+    payoutValue: 2
+    probability: 0.1
+    multiplierValue: 2
+  - itemType: 10
+    sprite: {fileID: 21300000, guid: dffdf04c015c6804bbb7557628b4dd18, type: 3}
+    payoutValue: 2
+    probability: 0.08
+    multiplierValue: 3
+  - itemType: 10
+    sprite: {fileID: 21300000, guid: 9c60bec2dfe7b7843bcf81ed7dfcef77, type: 3}
+    payoutValue: 2
+    probability: 0.06
+    multiplierValue: 5
+  - itemType: 10
+    sprite: {fileID: 21300000, guid: 2c9c88626d891ea4f8ce2537c93a17db, type: 3}
+    payoutValue: 2
+    probability: 0.02
+    multiplierValue: 10
+  - itemType: 10
+    sprite: {fileID: 21300000, guid: f7d8d11d3e9e53a4688448525321343e, type: 3}
+    payoutValue: 2
+    probability: 0.005
+    multiplierValue: 50
